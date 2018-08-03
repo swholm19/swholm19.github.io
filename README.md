@@ -1,5 +1,1 @@
-
-
-# Portfolio Template
-
-Fill It Out
+Scott Holm Portfolio
