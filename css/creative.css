@@ -30,7 +30,7 @@ a {
 }
 
 a:hover {
-  color: #009;
+  color: #05098c;
   text-decoration: none;
 }
 
@@ -57,7 +57,7 @@ h5 {
 }
 
 .project {
-  border: 1px solid #009;
+  border: 1px solid #05098c;
   margin: 0 0 20px;
   border-top-right-radius: 5px;
   border-bottom-right-radius: 5px;
@@ -82,7 +82,7 @@ img {
 }
 
 .project .col-md-3 {
-  background-color: #009;
+  background-color: #05098c;
   color: #fff;
 }
 
@@ -117,7 +117,7 @@ p.mega {
 } */
 
 .bg-primary {
-  background-color: #009 !important;
+  background-color: #05098c !important;
 }
 
 .bg-dark {
@@ -175,13 +175,13 @@ img::-moz-selection {
   font-weight: 500;
   letter-spacing: 0.1em;
   text-transform: uppercase;
-  color: #009;
+  color: #05098c;
   font-family: 'Raleway', 'Helvetica Neue', Arial, sans-serif;
 }
 
 #mainNav .navbar-brand:focus,
 #mainNav .navbar-brand:hover {
-  color: #009;
+  color: #05098c;
 }
 
 #mainNav .navbar-nav > li.nav-item > a.nav-link,
@@ -195,12 +195,12 @@ img::-moz-selection {
 
 #mainNav .navbar-nav > li.nav-item > a.nav-link:hover,
 #mainNav .navbar-nav > li.nav-item > a.nav-link:focus:hover {
-  color: #009;
+  color: #05098c;
 }
 
 #mainNav .navbar-nav > li.nav-item > a.nav-link.active,
 #mainNav .navbar-nav > li.nav-item > a.nav-link:focus.active {
-  color: #009 !important;
+  color: #05098c !important;
   background-color: transparent;
 }
 
@@ -251,12 +251,12 @@ img::-moz-selection {
   }
 
   #mainNav.navbar-shrink .navbar-brand {
-    color: #009;
+    color: #05098c;
   }
 
   #mainNav.navbar-shrink .navbar-brand:focus,
   #mainNav.navbar-shrink .navbar-brand:hover {
-    color: #009;
+    color: #05098c;
   }
 
   #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link,
@@ -266,7 +266,7 @@ img::-moz-selection {
 
   #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link:hover,
   #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link:focus:hover {
-    color: #009;
+    color: #05098c;
   }
 }
 
@@ -275,7 +275,7 @@ header.masthead {
   padding-bottom: calc(10rem - 56px);
 
   /* background-image: url("../img/header.jpg"); */
-  background-color: #009;
+  background-color: #05098c;
   background-position: center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -399,7 +399,7 @@ header.masthead p {
 }
 
 .text-primary {
-  color: #009 !important;
+  color: #05098c !important;
 }
 
 .btn {
@@ -415,8 +415,8 @@ header.masthead p {
 }
 
 .btn-primary {
-  background-color: #009;
-  border-color: #009;
+  background-color: #05098c;
+  border-color: #05098c;
 }
 
 .btn-primary:hover,
